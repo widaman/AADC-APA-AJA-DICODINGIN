@@ -5,3 +5,5 @@ Damon Ferero Dwiputra Setiawan (021002301013) MENGERJAKAN part1_data_fetching.py
 DEWA LIMA VADILLAH (021002301007) MENGERJAKAN BAGIAN 2 DATA PROCESSING
 
 Muhammad Syadzwa Ramadhan (021002301007) MENGERJAKAN BAGIAN 3 part3_ui_main.py 
+
+Ageng Fanbudi (021002302002) MENGERJAKAN BAGIAN 3 part4_charts_final.py
